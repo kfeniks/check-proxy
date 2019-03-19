@@ -1,0 +1,22 @@
+{
+    "name": "kfeniks/check-proxy",
+    "description": "Check proxy for valid",
+    "authors": [
+        {
+            "name": "Alexey",
+            "email": "keccgroup@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "CheckProxy": "src"
+        }
+    },
+    "require": {
+        "php": ">=7.2.0",
+        "ext-curl": "*"
+    },
+    "support": {
+        "email": "keccgroup@gmail.com"
+    }
+}
