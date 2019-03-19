@@ -1,10 +1,8 @@
 <?php
 
-namespace CheckProxy;
+namespace kfeniks\CheckProxy;
 
-use CheckProxy\CheckProxy\models\UserAgentModel;
-
-require_once __DIR__ . '/models/UserAgentModel.php';
+use kfeniks\CheckProxy\CheckProxy\models\UserAgentModel;
 
 class Checker
 {

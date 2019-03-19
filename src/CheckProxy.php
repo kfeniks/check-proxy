@@ -1,3 +1,3 @@
 <?php
 
-require_once __DIR__ . '/CheckProxy/Checker.php';
+require_once 'CheckProxy/Checker.php';
