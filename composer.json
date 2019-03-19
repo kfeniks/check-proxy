@@ -7,6 +7,14 @@
             "email": "keccgroup@gmail.com"
         }
     ],
+    "keywords": [
+        "proxy",
+        "validator",
+        "validate"
+    ],
+    "homepage": "https://github.com/kfeniks/check-proxy",
+    "license": "MIT",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "CheckProxy\\": "src"
@@ -15,6 +23,8 @@
     "require": {
         "php": ">=7.2.0",
         "ext-curl": "*"
+    },
+    "require-dev": {
     },
     "support": {
         "email": "keccgroup@gmail.com"
