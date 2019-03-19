@@ -1,8 +1,8 @@
 <?php
 
-namespace kfeniks\CheckProxy;
+namespace CheckProxy;
 
-use kfeniks\CheckProxy\CheckProxy\models\UserAgentModel;
+use CheckProxy\models\UserAgentModel;
 
 class Checker
 {

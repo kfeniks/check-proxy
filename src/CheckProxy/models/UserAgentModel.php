@@ -1,6 +1,6 @@
 <?php
 
-namespace kfeniks\CheckProxy\CheckProxy\models;
+namespace CheckProxy\models;
 
 class UserAgentModel
 {
