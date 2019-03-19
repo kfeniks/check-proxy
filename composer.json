@@ -17,15 +17,19 @@
     "type": "library",
     "autoload": {
         "psr-4": {
-            "CheckProxy\\": "src"
+            "kfeniks\\": "src/"
         }
     },
     "require": {
-        "php": ">=7.2.0",
+        "php": ">=7.2",
         "ext-curl": "*"
     },
     "require-dev": {
     },
+    "suggest": {
+        "ext-event": "For better performance. "
+    },
+    "minimum-stability": "dev",
     "support": {
         "email": "keccgroup@gmail.com"
     }
